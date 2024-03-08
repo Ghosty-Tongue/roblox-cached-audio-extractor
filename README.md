@@ -21,7 +21,7 @@ If the `sounds` folder doesn't exist, you must manually create it for audio file
 Alternatively, you can execute the shell script directly from GitHub using the following command:
 
 ```
-curl -LJs "https://raw.githubusercontent.com/Ghosty-Tongue/roblox-cached-audio-extractor/main/audio_extractor.sh" | bash
+curl -LJs "https://raw.githubusercontent.com/Ghosty-Tongue/roblox-cached-audio-extractor/MacOS/sh/extractor.sh" | bash
 ```
 
 **Note:** We highly recommend using the shell script option for its simplicity and ease of use.
